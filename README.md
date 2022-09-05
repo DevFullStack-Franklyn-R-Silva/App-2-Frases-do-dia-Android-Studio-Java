@@ -1,5 +1,9 @@
 # Frases-do-dia-Android-Studio-Java
 
+- Criando interface
+
+- Finalizando
+
 ## Aplicativo que gera 5 frases do dia.
 Clicando em `nova frase`, gera uma frase aleatória do dia.
 
